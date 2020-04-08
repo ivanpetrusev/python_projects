@@ -1,4 +1,4 @@
-Необходимые для работы библиотеки.
+РќРµРѕР±С…РѕРґРёРјС‹Рµ РґР»СЏ СЂР°Р±РѕС‚С‹ Р±РёР±Р»РёРѕС‚РµРєРё.
 
 pandas, 
 dash, 
@@ -8,8 +8,6 @@ sys,
 getopt,
 plotly.graph_objs,
  
-Из dash.dependencies операторы Input, Output
-Из sqlalchemy - create_engine
-Из datetime - datetime 
-
-
+РР· dash.dependencies РѕРїРµСЂР°С‚РѕСЂС‹ Input, Output
+РР· sqlalchemy - create_engine
+РР· datetime - datetime 
